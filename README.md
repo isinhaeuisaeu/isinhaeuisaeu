@@ -1,6 +1,6 @@
 Eu me chamo Isadora, estudo no CESF, sou da turma do primeiro ano D.
 
-Meu nome é Luiza, estudo no CESF, sou da turma primeiro ano D
+Meu nome é Luiza, estudo no CESF, sou da turma primeiro ano D.
 
 Vamos registrar nossos trabalhos aqui no repósitorio, da matéria de Pensamento Computacional.
 
